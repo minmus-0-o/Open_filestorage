@@ -1,3 +1,5 @@
 1) slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 2) slmgr /skms kms.digiboy.ir
 3) slmgr /ato
+
+https://connect.stealthsurf.net/to/0203cf2548047a7ff889d489d165b806
